@@ -5,6 +5,7 @@
 A health communication campaign about wildfire smoke in Spokane County, Washington. It helps families, coaches and outdoor crews turn one number, the Air Quality Index (AQI), into one clear action.
 
 **Live site:** https://exploreinfinity.github.io/smoke-smart-spokane/
+**Last Update Date:** October 31, 2026
 
 This is a student project for HSC 6665 Health Communication at the University of Florida. It is not an official campaign of any health agency, school district or employer.
 
