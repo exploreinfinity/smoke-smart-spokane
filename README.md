@@ -51,7 +51,7 @@ It runs fully in the browser. It collects and stores nothing. It gives general i
 
 ## How this was made
 
-An AI assistant (Claude, by Anthropic) helped draft the text, the graphics code and the chatbot code. I set the strategy and chose the sources. The Spanish text was drafted with AI help and should be reviewed by a fluent speaker before real use.
+An AI assistant (Claude, by Anthropic) helped code development. I set the strategy and chose the sources. The Spanish text was drafted with AI help and should be reviewed by a fluent speaker before real use.
 
 ## Sources and accuracy
 
